@@ -30,13 +30,13 @@ packages if needed.
 
 ## How to run
 
-    Python 3.10 required!
+    Python 3.10 is required!
 
 ### 1. Install requirements
 
     pip install -r requirements.txt
 
-### 2. Create the json file that defines the cities
+### 2. Create the JSON file that defines the cities
 
 example:
 
