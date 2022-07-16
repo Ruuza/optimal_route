@@ -32,7 +32,7 @@ packages if needed.
 
     Python 3.10 required!
 
-### 1. install requirements
+### 1. Install requirements
 
     pip install -r requirements.txt
 
@@ -65,7 +65,7 @@ example:
 }
 ```
 
-### 3. run the program
+### 3. Run the program
 
     python optimal_route.py -i <cityfile.json>
 
